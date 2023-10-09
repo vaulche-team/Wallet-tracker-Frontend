@@ -10,7 +10,7 @@ const InfoTab = () => {
   return (
     <>
     <div className="">
-       <div className="mt-[2rem] mb-5">
+       <div className="mt-[2rem] mb-3">
       <Info />
       </div>  
      
